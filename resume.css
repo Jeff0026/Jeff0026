@@ -1,0 +1,93 @@
+body{
+    background-color: #040404;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    position: relative;
+    margin-left: 10%;
+    background-image: url(My\ project-1.png);
+    background-size: cover;
+    
+
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+a:hover{
+    color:#18d26e;
+    text-decoration: underline;
+}
+a:active{
+    color: red;
+ 
+}
+::marker{
+    color:#18d26e
+}
+
+b{
+    color: #18d26e
+}
+nav{
+    float:right;
+    width:50%;
+    border-top: #18d26e solid 1px;
+    margin-right:.56em;
+    font-size: 23px;
+    height: 10%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    font-size:21px;
+}
+section{
+    margin-top: 2%;
+    margin-left: 1em;
+    font-size:21px;
+    width:38%;
+
+}
+#Academic{
+    border-left: #18d26e 1px solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 1em;
+    padding-left: 0%;
+    font-size: medium;
+    line-height: 2em;
+    width: 35%;
+   
+}
+span{
+    color:#18d26e ;
+    
+}
+
+section h3{
+    text-decoration: underline;
+}
+footer{
+    float:right;
+    width: 40%;
+    margin-right: 10%;
+}
+tr,th,td{
+    
+    border:.56em solid rgba(16, 15, 15, 0.015);
+    
+    margin-top: 4%;
+    font-size: 24px;
+    padding: .03em 1em .03em .5em ;
+    color: beige;
+    
+}
+table{
+    border-left:#18d26e 1px solid;
+    
+}
+.skill{
+    float: right;
+    width: 50%;
+    font-size: 30px;
+    
+}

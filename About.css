@@ -1,0 +1,78 @@
+body{
+    background-color: #040404;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    position: relative;
+    margin-left: 10%;
+    background-image: url(My\ project-1.png);
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+a:hover{
+    color:#18d26e;
+    text-decoration: underline;
+}
+a:active{
+    color: red;
+}
+
+b{
+    color: #18d26e
+}
+nav{
+    float:right;
+    width:50%;
+    border-top: #18d26e solid 1px;
+    margin-right:.56em;
+    font-size: 23px;
+    height: 15%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    font-size:21px;
+}
+section{
+    margin-top: 3%;
+    margin-left: .5em;
+    font-size:22px;
+}
+.Info{
+    float: right;
+    width: 52em;
+    margin-right: 0.56em;
+    font-size: 18px;
+    background-color: rgba(17, 13, 13, 0.084);
+}
+  #Image{
+    width: 30%;
+    border-left: #18d26e 2px solid;
+    margin-left: .5em;
+    
+}
+ul{
+    font-size:18px;
+
+}
+footer{
+    margin-left: .5em;
+}
+::marker{
+    color:#18d26e
+}
+tr,th,td{
+    
+    border:1px solid rgba(16, 15, 15, 0.015);
+    background-color: rgba(128, 128, 128, 0.115);
+    font-size: 12px;
+    color: beige;
+    padding-right: 10em;
+    padding-left: 10em;
+    
+}
+table{
+    border-left:#18d26e 1px solid;
+}
